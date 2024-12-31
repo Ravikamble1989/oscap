@@ -1,0 +1,14 @@
+open the resume
+tell me about yourself
+tell me about overall exp.
+tell me about the technical knowledge of linux
+
+
+
+C:\Source Control
+
+C:\Ravi TCIA\Git\oscap\.git
+
+C:\Windows\System32\cmd.exe
+
+C:\Source Control\oscap\.git
